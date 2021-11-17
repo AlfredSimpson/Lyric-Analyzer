@@ -23,3 +23,4 @@ def lyrics(inFile):
 
 
 	# Establishing words flagged for sentiment
+self = ['me', 'my', 'mine', 'i', 'im', 'ill', 'id', 'ive']
